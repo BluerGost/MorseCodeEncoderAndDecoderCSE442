@@ -37,12 +37,12 @@ This project is able to toggle between encoding and decoding of mode using a swi
 
 ## Acknowledgments
 
-[MorseCode Encoder](https://github.com/ahashans/MorseCodeEncoder)
-[MorseCode Decoder](http://www.instructables.com/id/Morse-Code-Decoder/)
+* [MorseCode Encoder](https://github.com/ahashans/MorseCodeEncoder)
+* [MorseCode Decoder](http://www.instructables.com/id/Morse-Code-Decoder/)
 
 ## Helpful Website Links
 
-[International MorseCode](https://morsecode.scphillips.com/morse2.html)
-[Learn Morse Code](http://www.learnmorsecode.com/)
+* [International MorseCode](https://morsecode.scphillips.com/morse2.html)
+* [Learn Morse Code](http://www.learnmorsecode.com/)
 
 
